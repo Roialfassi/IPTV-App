@@ -1,0 +1,4 @@
+requests>=2.31.0
+rich>=13.7.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.23.0
